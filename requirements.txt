@@ -4,3 +4,4 @@ pandas
 nltk
 docx
 scikit-learn
+python-docx
