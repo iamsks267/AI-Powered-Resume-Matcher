@@ -3,5 +3,4 @@ PyPDF2
 pandas
 nltk
 docx
-sklearn
 scikit-learn
