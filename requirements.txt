@@ -1,7 +1,6 @@
 streamlit
 PyPDF2
 pandas
-re
 nltk
 docx
 sklearn
